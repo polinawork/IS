@@ -1,4 +1,4 @@
-package Rot13;
+package task3_rot13;
 
 public class Rot13 {
 	public static String rot13(String str) {
