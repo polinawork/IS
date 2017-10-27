@@ -6,7 +6,6 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
         sc.close();
-        System.out.println(HexadecimalToDecimal.convert(str));
-        
+        System.out.println(HexadecimalToDecimal.convert(str));      
 	}
 }
